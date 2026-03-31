@@ -1,0 +1,11 @@
+Rank,drug_id,drug_name,disease_id,disease_name,score,intermediate_node
+1,DB13732,Meglumine antimoniate,43310,amaurosis fugax,78.00178527832031,liver failure
+2,DB00249,Idoxuridine,43310,amaurosis fugax,77.78516387939453,herpes simplex virus keratitis
+3,DB13732,Meglumine antimoniate,19834,pituitary hormone deficiency from meningeal origin,76.97209930419922,liver failure
+4,DB00249,Idoxuridine,19834,pituitary hormone deficiency from meningeal origin,76.83375549316406,herpes simplex virus keratitis
+5,DB00249,Idoxuridine,17291,reversible cerebral vasoconstriction syndrome,75.8390121459961,herpes simplex virus keratitis
+6,DB00249,Idoxuridine,15291,stromal keratitis,75.78364562988281,herpes simplex virus keratitis
+7,DB13732,Meglumine antimoniate,17291,reversible cerebral vasoconstriction syndrome,75.67404174804688,liver failure
+8,DB13732,Meglumine antimoniate,15291,stromal keratitis,75.33058166503906,liver failure
+9,DB13732,Meglumine antimoniate,22714,chester porphyria,74.90755462646484,liver failure
+10,DB13732,Meglumine antimoniate,17231,erythropoietic uroporphyria associated with myeloid malignancy,74.90755462646484,liver failure

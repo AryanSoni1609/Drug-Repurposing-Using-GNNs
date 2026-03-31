@@ -1,0 +1,201 @@
+drug_id,drug_name,disease_id,disease_name,score
+DB13732,Meglumine antimoniate,43310,amaurosis fugax,78.00178527832031
+DB00249,Idoxuridine,43310,amaurosis fugax,77.78516387939453
+DB13732,Meglumine antimoniate,19834,pituitary hormone deficiency from meningeal origin,76.97209930419922
+DB00249,Idoxuridine,19834,pituitary hormone deficiency from meningeal origin,76.83375549316406
+DB00249,Idoxuridine,17291,reversible cerebral vasoconstriction syndrome,75.8390121459961
+DB00249,Idoxuridine,15291,stromal keratitis,75.78364562988281
+DB13732,Meglumine antimoniate,17291,reversible cerebral vasoconstriction syndrome,75.67404174804688
+DB13732,Meglumine antimoniate,15291,stromal keratitis,75.33058166503906
+DB13732,Meglumine antimoniate,22714,chester porphyria,74.90755462646484
+DB13732,Meglumine antimoniate,17231,erythropoietic uroporphyria associated with myeloid malignancy,74.90755462646484
+DB00249,Idoxuridine,22714,chester porphyria,74.72918701171875
+DB00249,Idoxuridine,17231,erythropoietic uroporphyria associated with myeloid malignancy,74.72918701171875
+DB00249,Idoxuridine,8423,sinus node disease and myopia,73.50823974609375
+DB13732,Meglumine antimoniate,8423,sinus node disease and myopia,73.3624267578125
+DB13788,Chlorbenzoxamine,43310,amaurosis fugax,72.64335632324219
+DB13419,Troxipide,43310,amaurosis fugax,72.64335632324219
+DB00249,Idoxuridine,43156,nephrotic syndrome ocular anomalies,72.07846069335938
+DB13788,Chlorbenzoxamine,19834,pituitary hormone deficiency from meningeal origin,71.84120178222656
+DB13419,Troxipide,19834,pituitary hormone deficiency from meningeal origin,71.84120178222656
+DB13732,Meglumine antimoniate,43156,nephrotic syndrome ocular anomalies,71.44961547851562
+DB13732,Meglumine antimoniate,33948,acquired angioedema with C1Inh deficiency,71.32756042480469
+DB13788,Chlorbenzoxamine,17291,reversible cerebral vasoconstriction syndrome,70.78215026855469
+DB13419,Troxipide,17291,reversible cerebral vasoconstriction syndrome,70.78215026855469
+DB13419,Troxipide,15291,stromal keratitis,70.7801513671875
+DB13788,Chlorbenzoxamine,15291,stromal keratitis,70.7801513671875
+DB00249,Idoxuridine,33948,acquired angioedema with C1Inh deficiency,70.06256103515625
+DB00249,Idoxuridine,19845,iatrogenic or traumatic pituitary deficiency,70.03640747070312
+DB00249,Idoxuridine,16042,late-onset isolated ACTH deficiency,70.03640747070312
+DB13788,Chlorbenzoxamine,17231,erythropoietic uroporphyria associated with myeloid malignancy,69.9276123046875
+DB13419,Troxipide,22714,chester porphyria,69.9276123046875
+DB13419,Troxipide,17231,erythropoietic uroporphyria associated with myeloid malignancy,69.9276123046875
+DB13788,Chlorbenzoxamine,22714,chester porphyria,69.9276123046875
+DB13732,Meglumine antimoniate,19845,iatrogenic or traumatic pituitary deficiency,69.6549072265625
+DB13732,Meglumine antimoniate,16042,late-onset isolated ACTH deficiency,69.6549072265625
+DB13788,Chlorbenzoxamine,8423,sinus node disease and myopia,68.94151306152344
+DB13419,Troxipide,8423,sinus node disease and myopia,68.94151306152344
+DB12924,Ozenoxacin,43310,amaurosis fugax,68.07289123535156
+DB12447,Nadifloxacin,43310,amaurosis fugax,68.07289123535156
+DB09004,Clobutinol,33948,acquired angioedema with C1Inh deficiency,67.54247283935547
+DB13419,Troxipide,43156,nephrotic syndrome ocular anomalies,67.52252197265625
+DB13788,Chlorbenzoxamine,43156,nephrotic syndrome ocular anomalies,67.52252197265625
+DB12447,Nadifloxacin,19834,pituitary hormone deficiency from meningeal origin,67.38818359375
+DB12924,Ozenoxacin,19834,pituitary hormone deficiency from meningeal origin,67.38818359375
+DB12924,Ozenoxacin,15291,stromal keratitis,67.19326782226562
+DB12447,Nadifloxacin,15291,stromal keratitis,67.19326782226562
+DB13732,Meglumine antimoniate,17871,bilateral massive adrenal hemorrhage,66.83890533447266
+DB00249,Idoxuridine,8901,Tel Hashomer camptodactyly syndrome,66.61026000976562
+DB12924,Ozenoxacin,17291,reversible cerebral vasoconstriction syndrome,66.59581756591797
+DB12447,Nadifloxacin,17291,reversible cerebral vasoconstriction syndrome,66.59581756591797
+DB13608,Tiocarlide,43310,amaurosis fugax,66.5260009765625
+DB12924,Ozenoxacin,17231,erythropoietic uroporphyria associated with myeloid malignancy,66.02679443359375
+DB12924,Ozenoxacin,22714,chester porphyria,66.02679443359375
+DB12447,Nadifloxacin,22714,chester porphyria,66.02679443359375
+DB12447,Nadifloxacin,17231,erythropoietic uroporphyria associated with myeloid malignancy,66.02679443359375
+DB09004,Clobutinol,43310,amaurosis fugax,65.98948669433594
+DB13608,Tiocarlide,19834,pituitary hormone deficiency from meningeal origin,65.87798309326172
+DB00249,Idoxuridine,17871,bilateral massive adrenal hemorrhage,65.85921478271484
+DB13608,Tiocarlide,15291,stromal keratitis,65.82611083984375
+DB13732,Meglumine antimoniate,8901,Tel Hashomer camptodactyly syndrome,65.81373596191406
+DB13419,Troxipide,16042,late-onset isolated ACTH deficiency,65.75883483886719
+DB13419,Troxipide,19845,iatrogenic or traumatic pituitary deficiency,65.75883483886719
+DB13788,Chlorbenzoxamine,19845,iatrogenic or traumatic pituitary deficiency,65.75883483886719
+DB13788,Chlorbenzoxamine,16042,late-onset isolated ACTH deficiency,65.75883483886719
+DB13608,Tiocarlide,17291,reversible cerebral vasoconstriction syndrome,65.17500305175781
+DB09004,Clobutinol,19834,pituitary hormone deficiency from meningeal origin,64.9708251953125
+DB12924,Ozenoxacin,8423,sinus node disease and myopia,64.72419738769531
+DB12447,Nadifloxacin,8423,sinus node disease and myopia,64.72419738769531
+DB13608,Tiocarlide,17231,erythropoietic uroporphyria associated with myeloid malignancy,64.60792541503906
+DB13608,Tiocarlide,22714,chester porphyria,64.60792541503906
+DB13419,Troxipide,33948,acquired angioedema with C1Inh deficiency,64.45541381835938
+DB13788,Chlorbenzoxamine,33948,acquired angioedema with C1Inh deficiency,64.45541381835938
+DB00249,Idoxuridine,9523,Lichtenstein syndrome,64.20406341552734
+DB12924,Ozenoxacin,43156,nephrotic syndrome ocular anomalies,63.926021575927734
+DB12447,Nadifloxacin,43156,nephrotic syndrome ocular anomalies,63.926021575927734
+DB13732,Meglumine antimoniate,9523,Lichtenstein syndrome,63.790611267089844
+DB09004,Clobutinol,17291,reversible cerebral vasoconstriction syndrome,63.658878326416016
+DB09004,Clobutinol,15291,stromal keratitis,63.49755096435547
+DB13608,Tiocarlide,8423,sinus node disease and myopia,63.353431701660156
+DB09004,Clobutinol,22714,chester porphyria,62.957210540771484
+DB09004,Clobutinol,17231,erythropoietic uroporphyria associated with myeloid malignancy,62.957210540771484
+DB09004,Clobutinol,17871,bilateral massive adrenal hemorrhage,62.920204162597656
+DB13732,Meglumine antimoniate,21750,pyonephrosis,62.80944061279297
+DB13732,Meglumine antimoniate,56796,obstructive nephropathy,62.80944061279297
+DB13608,Tiocarlide,43156,nephrotic syndrome ocular anomalies,62.688079833984375
+DB13419,Troxipide,8901,Tel Hashomer camptodactyly syndrome,62.6370849609375
+DB13788,Chlorbenzoxamine,8901,Tel Hashomer camptodactyly syndrome,62.6370849609375
+DB12447,Nadifloxacin,19845,iatrogenic or traumatic pituitary deficiency,61.91130447387695
+DB12447,Nadifloxacin,16042,late-onset isolated ACTH deficiency,61.91130447387695
+DB12924,Ozenoxacin,16042,late-onset isolated ACTH deficiency,61.91130447387695
+DB12924,Ozenoxacin,19845,iatrogenic or traumatic pituitary deficiency,61.91130447387695
+DB13475,Furazidin,43310,amaurosis fugax,61.876522064208984
+DB13730,Nifurtoinol,43310,amaurosis fugax,61.876522064208984
+DB13218,Mandelic acid,43310,amaurosis fugax,61.876522064208984
+DB13730,Nifurtoinol,15291,stromal keratitis,61.65070343017578
+DB13218,Mandelic acid,15291,stromal keratitis,61.65070343017578
+DB13475,Furazidin,15291,stromal keratitis,61.65070343017578
+DB13218,Mandelic acid,19834,pituitary hormone deficiency from meningeal origin,61.34136962890625
+DB13730,Nifurtoinol,19834,pituitary hormone deficiency from meningeal origin,61.34136962890625
+DB13475,Furazidin,19834,pituitary hormone deficiency from meningeal origin,61.34136962890625
+DB09004,Clobutinol,8423,sinus node disease and myopia,61.301395416259766
+DB00249,Idoxuridine,21750,pyonephrosis,60.960670471191406
+DB00249,Idoxuridine,56796,obstructive nephropathy,60.960670471191406
+DB13732,Meglumine antimoniate,43103,hypothyroidism due to iodide transport defect,60.94683074951172
+DB13732,Meglumine antimoniate,19783,neovascular glaucoma,60.867431640625
+DB13419,Troxipide,9523,Lichtenstein syndrome,60.74821853637695
+DB13788,Chlorbenzoxamine,9523,Lichtenstein syndrome,60.74821853637695
+DB13475,Furazidin,17291,reversible cerebral vasoconstriction syndrome,60.73827362060547
+DB13730,Nifurtoinol,17291,reversible cerebral vasoconstriction syndrome,60.73827362060547
+DB13218,Mandelic acid,17291,reversible cerebral vasoconstriction syndrome,60.73827362060547
+DB13608,Tiocarlide,19845,iatrogenic or traumatic pituitary deficiency,60.6982421875
+DB13608,Tiocarlide,16042,late-onset isolated ACTH deficiency,60.6982421875
+DB13419,Troxipide,17871,bilateral massive adrenal hemorrhage,60.68712615966797
+DB13788,Chlorbenzoxamine,17871,bilateral massive adrenal hemorrhage,60.68712615966797
+DB13218,Mandelic acid,22714,chester porphyria,60.456153869628906
+DB13730,Nifurtoinol,17231,erythropoietic uroporphyria associated with myeloid malignancy,60.456153869628906
+DB13218,Mandelic acid,17231,erythropoietic uroporphyria associated with myeloid malignancy,60.456153869628906
+DB13475,Furazidin,22714,chester porphyria,60.456153869628906
+DB13475,Furazidin,17231,erythropoietic uroporphyria associated with myeloid malignancy,60.456153869628906
+DB13730,Nifurtoinol,22714,chester porphyria,60.456153869628906
+DB00249,Idoxuridine,20782,chronic gingivitis,60.41374206542969
+DB00249,Idoxuridine,19783,neovascular glaucoma,60.042415618896484
+DB00249,Idoxuridine,43103,hypothyroidism due to iodide transport defect,60.00143051147461
+DB12447,Nadifloxacin,33948,acquired angioedema with C1Inh deficiency,59.761260986328125
+DB12924,Ozenoxacin,33948,acquired angioedema with C1Inh deficiency,59.761260986328125
+DB00249,Idoxuridine,19802,secondary short bowel syndrome,59.633155822753906
+DB09004,Clobutinol,43156,nephrotic syndrome ocular anomalies,59.464454650878906
+DB00249,Idoxuridine,19559,hypertrophic or verrucous lupus erythematosus,59.414039611816406
+DB00249,Idoxuridine,19560,lupus erythematosus tumidus,59.414039611816406
+DB12447,Nadifloxacin,8901,Tel Hashomer camptodactyly syndrome,59.349609375
+DB12924,Ozenoxacin,8901,Tel Hashomer camptodactyly syndrome,59.349609375
+DB13732,Meglumine antimoniate,22912,cutis verticis gyrata mental deficiency,59.177879333496094
+DB13218,Mandelic acid,8423,sinus node disease and myopia,59.089759826660156
+DB13475,Furazidin,8423,sinus node disease and myopia,59.089759826660156
+DB13730,Nifurtoinol,8423,sinus node disease and myopia,59.089759826660156
+DB13732,Meglumine antimoniate,20757,sporadic hemiplegic migraine,58.70874786376953
+DB13218,Mandelic acid,43156,nephrotic syndrome ocular anomalies,58.70396423339844
+DB13475,Furazidin,43156,nephrotic syndrome ocular anomalies,58.70396423339844
+DB13730,Nifurtoinol,43156,nephrotic syndrome ocular anomalies,58.70396423339844
+DB00249,Idoxuridine,22912,cutis verticis gyrata mental deficiency,58.46221923828125
+DB13732,Meglumine antimoniate,20782,chronic gingivitis,58.33091354370117
+DB13608,Tiocarlide,8901,Tel Hashomer camptodactyly syndrome,58.31396484375
+DB00249,Idoxuridine,20757,sporadic hemiplegic migraine,58.254329681396484
+DB13732,Meglumine antimoniate,19802,secondary short bowel syndrome,57.9003791809082
+DB13788,Chlorbenzoxamine,56796,obstructive nephropathy,57.89210510253906
+DB13419,Troxipide,56796,obstructive nephropathy,57.89210510253906
+DB13788,Chlorbenzoxamine,21750,pyonephrosis,57.89210510253906
+DB13419,Troxipide,21750,pyonephrosis,57.89210510253906
+DB13732,Meglumine antimoniate,19560,lupus erythematosus tumidus,57.88266372680664
+DB13732,Meglumine antimoniate,19559,hypertrophic or verrucous lupus erythematosus,57.88266372680664
+DB13608,Tiocarlide,33948,acquired angioedema with C1Inh deficiency,57.85413360595703
+DB09004,Clobutinol,19845,iatrogenic or traumatic pituitary deficiency,57.517826080322266
+DB09004,Clobutinol,16042,late-onset isolated ACTH deficiency,57.517826080322266
+DB13419,Troxipide,20782,chronic gingivitis,57.24784851074219
+DB13788,Chlorbenzoxamine,20782,chronic gingivitis,57.24784851074219
+DB12924,Ozenoxacin,9523,Lichtenstein syndrome,56.98528289794922
+DB12447,Nadifloxacin,9523,Lichtenstein syndrome,56.98528289794922
+DB09004,Clobutinol,43103,hypothyroidism due to iodide transport defect,56.891761779785156
+DB09004,Clobutinol,19783,neovascular glaucoma,56.879302978515625
+DB13218,Mandelic acid,16042,late-onset isolated ACTH deficiency,56.76054763793945
+DB13218,Mandelic acid,19845,iatrogenic or traumatic pituitary deficiency,56.76054763793945
+DB13475,Furazidin,19845,iatrogenic or traumatic pituitary deficiency,56.76054763793945
+DB13475,Furazidin,16042,late-onset isolated ACTH deficiency,56.76054763793945
+DB13730,Nifurtoinol,19845,iatrogenic or traumatic pituitary deficiency,56.76054763793945
+DB13730,Nifurtoinol,16042,late-onset isolated ACTH deficiency,56.76054763793945
+DB12447,Nadifloxacin,17871,bilateral massive adrenal hemorrhage,56.49272918701172
+DB12924,Ozenoxacin,17871,bilateral massive adrenal hemorrhage,56.49272918701172
+DB13788,Chlorbenzoxamine,19802,secondary short bowel syndrome,56.37007522583008
+DB13419,Troxipide,19802,secondary short bowel syndrome,56.37007522583008
+DB13788,Chlorbenzoxamine,19560,lupus erythematosus tumidus,56.34474182128906
+DB13419,Troxipide,19559,hypertrophic or verrucous lupus erythematosus,56.34474182128906
+DB13419,Troxipide,19560,lupus erythematosus tumidus,56.34474182128906
+DB13788,Chlorbenzoxamine,19559,hypertrophic or verrucous lupus erythematosus,56.34474182128906
+DB00249,Idoxuridine,3147,space motion sickness,56.12321472167969
+DB00249,Idoxuridine,21677,post-infectious neuralgia,56.106475830078125
+DB13608,Tiocarlide,9523,Lichtenstein syndrome,55.943214416503906
+DB12924,Ozenoxacin,20782,chronic gingivitis,55.62117385864258
+DB12447,Nadifloxacin,20782,chronic gingivitis,55.62117385864258
+DB13419,Troxipide,19783,neovascular glaucoma,55.564422607421875
+DB13788,Chlorbenzoxamine,19783,neovascular glaucoma,55.564422607421875
+DB13788,Chlorbenzoxamine,43103,hypothyroidism due to iodide transport defect,55.50679016113281
+DB13419,Troxipide,43103,hypothyroidism due to iodide transport defect,55.50679016113281
+DB00249,Idoxuridine,20666,Löfgren syndrome,55.059871673583984
+DB13608,Tiocarlide,20782,chronic gingivitis,54.97434616088867
+DB13732,Meglumine antimoniate,21677,post-infectious neuralgia,54.928009033203125
+DB09004,Clobutinol,22912,cutis verticis gyrata mental deficiency,54.87733840942383
+DB13475,Furazidin,8901,Tel Hashomer camptodactyly syndrome,54.77149963378906
+DB13218,Mandelic acid,8901,Tel Hashomer camptodactyly syndrome,54.77149963378906
+DB13730,Nifurtoinol,8901,Tel Hashomer camptodactyly syndrome,54.77149963378906
+DB13608,Tiocarlide,17871,bilateral massive adrenal hemorrhage,54.76390838623047
+DB12924,Ozenoxacin,56796,obstructive nephropathy,54.4401741027832
+DB12447,Nadifloxacin,21750,pyonephrosis,54.4401741027832
+DB12924,Ozenoxacin,21750,pyonephrosis,54.4401741027832
+DB12447,Nadifloxacin,56796,obstructive nephropathy,54.4401741027832
+DB13419,Troxipide,22912,cutis verticis gyrata mental deficiency,54.30425262451172
+DB13788,Chlorbenzoxamine,22912,cutis verticis gyrata mental deficiency,54.30425262451172
+DB00249,Idoxuridine,11607_12898_13020_13639,"narcolepsy, susceptibility to",54.270530700683594
+DB13732,Meglumine antimoniate,3147,space motion sickness,54.22608184814453
+DB00249,Idoxuridine,20575,polymorphic ventricular tachycardia,54.17095184326172
+DB09004,Clobutinol,20757,sporadic hemiplegic migraine,54.15739440917969
+DB12447,Nadifloxacin,19802,secondary short bowel syndrome,53.99677276611328
